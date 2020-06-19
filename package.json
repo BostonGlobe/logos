@@ -1,6 +1,6 @@
 {
   "name": "@bostonglobe/logos",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Boston Globe logos",
   "main": "index.js",
   "scripts": {
