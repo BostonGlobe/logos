@@ -1,0 +1,19 @@
+{
+  "name": "@bostonglobe/logos",
+  "version": "1.0.0",
+  "description": "Boston Globe logos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BostonGlobe/logos.git"
+  },
+  "author": "The Boston Globe",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BostonGlobe/logos/issues"
+  },
+  "homepage": "https://github.com/BostonGlobe/logos#readme"
+}
